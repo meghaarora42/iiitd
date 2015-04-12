@@ -1,0 +1,14 @@
+Script started on Thu 20 Mar 2014 12:02:07 PM PDT
+]0;meghaarora@ubuntu: ~/Desktopmeghaarora@ubuntu:~/Desktop$ gcc - [Ko server 2[Ktcp_server_2012059.c
+]0;meghaarora@ubuntu: ~/Desktopmeghaarora@ubuntu:~/Desktop$ ./server
+IP: 0.0.0.0
+Waiting for connection...
+Connected to a client
+Message Received: Hello World!
+Message sent in reverse.
+Waiting for connection...
+^C
+]0;meghaarora@ubuntu: ~/Desktopmeghaarora@ubuntu:~/Desktop$ exit
+exit
+
+Script done on Thu 20 Mar 2014 12:03:44 PM PDT

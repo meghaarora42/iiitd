@@ -1,0 +1,11 @@
+Script started on Thu 20 Mar 2014 12:03:00 PM PDT
+]0;meghaarora@ubuntu: ~/Desktopmeghaarora@ubuntu:~/Desktop$ gcc -o client tcp_client_2012059.t[Kc
+]0;meghaarora@ubuntu: ~/Desktopmeghaarora@ubuntu:~/Desktop$ ./client 0.0.0.0 2000 Hello World!
+Message sent: Hello World!
+Response from server: !dlroW olleH
+Closing connection.....
+
+]0;meghaarora@ubuntu: ~/Desktopmeghaarora@ubuntu:~/Desktop$ exit
+exit
+
+Script done on Thu 20 Mar 2014 12:03:39 PM PDT
